@@ -29,7 +29,7 @@ function App() {
             <a href="mailto:saniakhatri003@gmail.com" target="_blank" rel="noopener noreferrer">
               <button className='btn1'> <FontAwesomeIcon icon={faEnvelope} className="icons" /> Email</button>
             </a>
-            <a href="https://www.linkedin.com/in/sania-khatri-0003s0003/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/saniakhatri003/" target="_blank" rel="noopener noreferrer">
               <button className='btn2'> <FontAwesomeIcon icon={faLinkedin} className="icons" /> LinkedIn</button>
             </a>
                 
